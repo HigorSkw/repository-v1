@@ -30,9 +30,13 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              Desenvolvedor Fullstack com experiência em desenvolvimento de
+              sistemas Web. Conhecimentos sólidos em HTML, CSS, Javascript,
+              Typescript, React e NodeJS. Conhecimento em Python e Django.
+              Familiaridade em boas práticas no Front e Back-end utilizando
+              Clean Code e, realização de testes unitários e E2E. Formado em
+              Administração e com experiências durante 8 anos em departamentos
+              estratégicos, como Controladoria, RH e Planejamento.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
